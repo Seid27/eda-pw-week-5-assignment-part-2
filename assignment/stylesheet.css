@@ -1,0 +1,11 @@
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+main{
+  background-color: grey;
+  background-image: url('record.png');
+  background-repeat: repeat;
+}
