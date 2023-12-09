@@ -4,8 +4,11 @@ header {
   text-align: center;
 }
 
-main{
-  background-color: grey;
+body{
   background-image: url('record.png');
   background-repeat: repeat;
+}
+
+main{
+  background-color: #ced4da;
 }
