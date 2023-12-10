@@ -2,9 +2,10 @@
   margin: 0;
 }
 
-header {
-  background-color: black;
-  color: white;
+.header {
+  padding: 1em;
+  background-color: #fc6c28;
+  color: #000000;
   text-align: center;
 }
 
@@ -13,7 +14,7 @@ body{
   background-repeat: repeat;
 }
 
-main{
-  background-color: #ced4da;
+.main{
+  background-color: #e5e5e5;
   padding: 1em;
 }
